@@ -1,7 +1,7 @@
 <div align="center">
 	<p>
 		<a href="https://animeflv.net/">
-			<img src="https://box.lolisbox.xyz/J4DHRa.svg" width="478" title="AnimeFLV.net" />
+			<img src="https://loli.lolisbox.xyz/cAGvGK.png" width="478" title="AnimeFLV.net" />
 		</a>
 	</p>
 	<br />
