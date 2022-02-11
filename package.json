@@ -1,0 +1,28 @@
+{
+  "name": "animeflv.js",
+  "version": "0.1.0-alpha",
+  "description": "Un módulo para interactuar con la API de AnimeFLV.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rivest-oss/animeflv-node.git"
+  },
+  "keywords": [
+    "animeflv",
+    "api",
+    "node"
+  ],
+  "author": "rivest-oss",
+  "license": "CC-BY-NC-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/rivest-oss/animeflv-node/issues"
+  },
+  "homepage": "https://github.com/rivest-oss/animeflv-node#readme",
+  "dependencies": {
+    "cloudscraper": "^4.6.0",
+    "jsdom": "^19.0.0"
+  }
+}
