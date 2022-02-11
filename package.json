@@ -1,6 +1,6 @@
 {
   "name": "animeflv.js",
-  "version": "0.1.0-alpha",
+  "version": "0.1.1-alpha",
   "description": "Un módulo para interactuar con la API de AnimeFLV.",
   "main": "index.js",
   "scripts": {

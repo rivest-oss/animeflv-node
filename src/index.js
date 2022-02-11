@@ -457,8 +457,8 @@ class SearchResult {
 		Object.assign(this, {
 			id: parseInt(raw.id),
 			title: raw.title,
-			cover: `${baseURL}/uploads/animes/covers/${this.id}.jpg`,
-			banner: `${baseURL}/uploads/animes/banners/${this.id}.jpg`,
+			cover: `${baseURL}/uploads/animes/covers/${raw.id}.jpg`,
+			banner: `${baseURL}/uploads/animes/banners/${raw.id}.jpg`,
 			type: _animeType(raw.type),
 			lastID: parseInt(raw.last_id),
 			slug: raw.slug,
